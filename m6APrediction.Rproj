@@ -1,0 +1,7 @@
+Version: 1.0
+RestoreWorkspace: No
+SaveWorkspace: No
+AlwaysSaveHistory: No
+BuildType: Package
+PackageUseDevtools: Yes
+PackageRoxygenize: rd,collate,namespace
